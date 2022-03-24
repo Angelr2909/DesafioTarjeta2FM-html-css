@@ -9,7 +9,7 @@ html,body{
     align-items: center;
 }
 .container{
-    width: 300px;
+    width: 280px;
     padding: 20px;
     border-radius: 20px;
     background-color: hsl(0, 0%, 100%);
@@ -17,11 +17,11 @@ html,body{
     box-shadow: 5px 5px 20px #c7c7c7;
 }
 .container > img{
-    width: 300px;
+    width: 280px;
     border-radius: 10px;
 }
 .container-text{
-    padding: 20px;
+    padding: 10px;
 }
 h1{
     color: hsl(218, 44%, 22%);
